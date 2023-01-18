@@ -1,2 +1,2 @@
 # MnQuants
-Repo for MnQuants (personal) project.
+Repo for [MnQuants](https://mnquants.com/) (personal) project.
